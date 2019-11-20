@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126bc2d9-9f7a-4d9c-ad8b-2f39bfdc9206" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DestroyAfterDeathAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Obstacles/ShakingHook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Obstacles/Spikes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/LevelState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/LevelInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/ShakingHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyAfterDeathAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacles/Spikes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/LevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Tutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Menu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PsGI59wpOO0ALHvsbEHFyWP9Zm" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="29972">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="29972" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126bc2d9-9f7a-4d9c-ad8b-2f39bfdc9206" name="Default Changelist" comment="" />
+      <created>1566655309111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566655309111</updated>
+      <workItem from="1566655313346" duration="20368000" />
+      <workItem from="1566733357760" duration="7310000" />
+      <workItem from="1566819200038" duration="11665000" />
+      <workItem from="1571160818004" duration="1000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left/1920.1080/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right/1920.1080/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

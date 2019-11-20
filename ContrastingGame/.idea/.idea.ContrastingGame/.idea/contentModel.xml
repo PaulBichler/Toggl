@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\paulb\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\paulb\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ContrastingGame.1871571301.00" t="ExcludeRecursive" />
+    <e p="Z:\BTS\OneDrive - 365education\GameJams\GetaGameJam9\ContrastingGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DestroyAfterDeathAnimation.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Character" t="Include">
+            <e p="CharacterController2D.cs" t="Include" />
+            <e p="ColorSwap.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="DontDestroy.cs" t="Include" />
+          <e p="Eye.cs" t="Include" />
+          <e p="Game" t="Include">
+            <e p="GameState.cs" t="Include" />
+            <e p="LevelInitializer.cs" t="Include" />
+            <e p="LevelState.cs" t="Include" />
+          </e>
+          <e p="Obstacles" t="Include">
+            <e p="GrapplingHook.cs" t="Include" />
+            <e p="ShakingHook.cs" t="Include" />
+            <e p="Spikes.cs" t="Include" />
+          </e>
+          <e p="SaveSystem.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="LevelCompletedMenu.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="PauseMenu.cs" t="Include" />
+            <e p="Tutorial.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="InvertColor.shader" t="Include" />
+        </e>
+      </e>
+      <e p="ContrastingGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
